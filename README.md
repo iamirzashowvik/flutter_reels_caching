@@ -1,16 +1,12 @@
-# cached_reels
+Flutter Reels App Like Instagram 
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/iamirzashowvik/flutter_reels_caching/blob/main/How-to-download-Reels-to-iPhone.jpg">
+<img src="https://github.com/iamirzashowvik/flutter_reels_caching/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20Max%20-%202023-10-29%20at%2023.09.52.gif">
 
-This project is a starting point for a Flutter application.
+Here are the plugins used:
+1. flutter_cache_manager
+2. video_player
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   Here you cache videos according to your business logic. Then play reels whenever you need to.
+   Also, you can set cache configuration like how many reels you want to cache and their lifespan.
