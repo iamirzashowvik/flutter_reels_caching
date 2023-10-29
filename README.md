@@ -1,8 +1,8 @@
 Flutter Reels App Like Instagram 
 
 
-<img src="https://github.com/iamirzashowvik/flutter_reels_caching/blob/main/How-to-download-Reels-to-iPhone.jpg">
-<img src="https://github.com/iamirzashowvik/flutter_reels_caching/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20Max%20-%202023-10-29%20at%2023.09.52.gif">
+<img src="How-to-download-Reels-to-iPhone.jpg">
+<img src="Simulator Screen Recording - iPhone 14 Pro Max - 2023-10-29 at 23.09.52.gif">
 
 Here are the plugins used:
 1. flutter_cache_manager
