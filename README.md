@@ -1,7 +1,7 @@
 Flutter Reels App Like Instagram 
 
 
-<img src="How-to-download-Reels-to-iPhone.jpg">
+
 <img src="Simulator Screen Recording - iPhone 14 Pro Max - 2023-10-29 at 23.09.52.gif">
 
 Here are the plugins used:
